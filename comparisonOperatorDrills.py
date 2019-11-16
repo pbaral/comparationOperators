@@ -40,7 +40,7 @@ l = (11/3<100/33)
 m = (9*7>8*8)
 #13) Check if the square root of 3 is less than 1.15 squared and store the answer in
 #  ) variable n
-n = (3^1/2<1.15)
+n = (3^.5<1.15)
 #14) Multiple 8 by 3 and store that in variable o, then divide 56 by 2 and store that
 #  ) in variable p, finally check if o is greater then p and store the answer in variable q.
 o = (8*3)
